@@ -1,5 +1,5 @@
 {
-  "name": "JWT-Authentication",
+  "name": "jwt-authentication",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
